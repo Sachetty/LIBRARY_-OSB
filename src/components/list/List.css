@@ -1,0 +1,9 @@
+.listcontainer{
+    width: 100%;
+    background-color: rgb(17, 148, 224);
+    margin: 1vh 0vh 1vh 1vh;
+    border-radius: 1vh;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
